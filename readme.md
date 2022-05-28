@@ -1,34 +1,3 @@
-<h2> Table of content</h2>
-<ol>
-  <li><a href="1">Introduction<a/></li>
-</ol>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-<div id="1"></div>
+## Introduction
+**Murder Mystery** type game.. Many *roles*, Murderer can ***kill*** when lights are out, Innocent try to votekick the murderer; roles such as twin, if one twin is killed, the other dies, or if one if votekicked the other is aswell, or medic, u can save someone, ect..
+## How to play
